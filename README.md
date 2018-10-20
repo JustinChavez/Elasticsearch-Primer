@@ -18,3 +18,9 @@ pip install virtualenv
 ```
 3. Download this repository to your computer and navigate to its location using terminal or the command line
 4. Run the following to open a new environment with all the dependencies installed
+```
+virtualenv venv
+source venv/bin/activate
+pip install elasticsearch jupyter notebook Flask
+```
+5. Run `jupyter notebook` in the terminal or command line and open a notebook to start writing data to elasticsearch
