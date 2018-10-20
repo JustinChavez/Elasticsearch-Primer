@@ -21,6 +21,6 @@ pip install virtualenv
 ```
 virtualenv venv
 source venv/bin/activate
-pip install elasticsearch jupyter notebook Flask
+pip install elasticsearch jupyter notebook Flask requests
 ```
 5. Run `jupyter notebook` in the terminal or command line and open a notebook to start writing data to elasticsearch
