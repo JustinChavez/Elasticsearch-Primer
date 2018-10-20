@@ -28,6 +28,7 @@ pip install elasticsearch jupyter notebook Flask requests
 # Other great tutorials and resources
 
 https://medium.com/the-andela-way/getting-started-with-elasticsearch-with-python-be8a5727c05f
+
 https://medium.com/the-andela-way/getting-started-with-elasticsearch-python-part-two-1c0c9d1117ea
 
 https://toolbox.google.com/datasetsearch
