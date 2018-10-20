@@ -24,3 +24,10 @@ source venv/bin/activate
 pip install elasticsearch jupyter notebook Flask requests
 ```
 5. Run `jupyter notebook` in the terminal or command line and open a notebook to start writing data to elasticsearch
+
+# Other great tutorials and resources
+
+https://medium.com/the-andela-way/getting-started-with-elasticsearch-with-python-be8a5727c05f
+https://medium.com/the-andela-way/getting-started-with-elasticsearch-python-part-two-1c0c9d1117ea
+
+https://toolbox.google.com/datasetsearch
